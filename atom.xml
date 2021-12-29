@@ -119,9 +119,9 @@
     
     
     
-    <category term="vmware" scheme="http://b3210.github.io/tags/vmware/"/>
-    
     <category term="Docker" scheme="http://b3210.github.io/tags/Docker/"/>
+    
+    <category term="vmware" scheme="http://b3210.github.io/tags/vmware/"/>
     
   </entry>
   
